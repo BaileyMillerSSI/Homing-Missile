@@ -587,7 +587,7 @@ PlayerSettings:
     tvOS: 1
   scriptingBackend:
     Android: 0
-    Metro: 2
+    Metro: 1
     Standalone: 0
     WP8: 2
     WebGL: 1
@@ -614,7 +614,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: FPS2
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Space Run
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
