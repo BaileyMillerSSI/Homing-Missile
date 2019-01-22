@@ -20,13 +20,14 @@ obj/
 *.sln
 *.user
 *.unityproj
-*.booproj
+*.vs/
 
 # ===================================== #
 # Unity generated #
 # ===================================== #
 *.pidb.meta
 sysinfo.txt
+*.meta
 
 # ============ #
 # OS generated #
